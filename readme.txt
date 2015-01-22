@@ -9,6 +9,10 @@ License: GPLv2 or later
 
 eAngel provides a 24/7 professional proofreading services to WordPress users.
 
+== Description ==
+
+eAngel - Add professional proofreading to your WordPress publishing process.
+
 We all know that a professional level of writing cannot simply be achieved with an automated spelling or grammar checker. No matter how advanced automated software has become it still cannot replace the human brain. At eAngel.me each text is corrected personally by one of our language experts.
 
 Our vision is moving beyond language skills and creating clear channels of communication. We believe that different abilities, languages and countries should not be a barrier for accurate correspondence. We want to make it easier and faster, for business professionals, students and individuals living with disabilities interfering with language skills like dyslexia, to efficiently communicate. eAngel.me offers every person just that, and at a low, affordable cost.
@@ -16,10 +20,6 @@ Our vision is moving beyond language skills and creating clear channels of commu
 With one simple click your text is sent to one of our angels, who personally corrects it and makes sure you sound professional. We correct (not translate) spelling, grammar, punctuation and proper use of words. We correct texts in English, Spanish, French, German and Hebrew.
 
 Our pricing model adapts to your needs. If your writing skills are at a high level and you only require minor corrections you will pay less than a user whose writing requires a high number of corrections.
-
-== Description ==
-
-eAngel - Add professional proofreading to your WordPress publishing process.
 
 
 == Installation ==
