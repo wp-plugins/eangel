@@ -52,6 +52,9 @@ We correct grammar, spelling, punctuation and proper use of words.
 
 == Changelog ==
 
+= 1.2 =
+Improved ReadMe File.
+
 = 1.1 =
 Initial Version.
 
