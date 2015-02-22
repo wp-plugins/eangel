@@ -30,10 +30,12 @@
                     'header' => "Content-type: application/x-www-form-urlencoded\r\n",
                     'method' => 'POST',
                     'content' => http_build_query($data),
+	            'ignore_errors' => TRUE
                 ),
             );
             $context = stream_context_create($options);
             $result  = file_get_contents($url, false, $context);
+	    //  var_dump($http_response_header);
 
 
 //            echo '<p>'.$oPost->post_content.'</p>';
